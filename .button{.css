@@ -1,0 +1,12 @@
+.button{
+    width: 200px;height: 30px;border: 1px lightblue solid;margin-left: 25px;margin-top: 10px;
+}
+.imgg{
+    filter: blur(60px);
+    -webkit-filter: blur(60px);
+    width: 100%;
+    margin-top: 25px;
+}
+.container{
+    margin-top: 60px;
+}
